@@ -6,6 +6,7 @@
     "moment": "^2.22.2",
     "moment-random": "^1.0.4",
     "prop-types": "^15.6.2",
+    "rc-menu": "^8.3.1",
     "react": "^16.5.2",
     "react-datepicker": "^1.6.0",
     "react-dom": "^16.5.2",
@@ -14,20 +15,18 @@
     "semantic-ui-css": "^2.4.0",
     "semantic-ui-react": "^0.82.5"
   },
-
   "browserslist": {
-      "production": [
-        ">0.2%",
-        "not dead",
-        "not op_mini all"
-      ],
-      "development": [
-        "last 1 chrome version",
-        "last 1 firefox version",
-        "last 1 safari version"
-      ]
-    },
-
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

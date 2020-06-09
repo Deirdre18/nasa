@@ -10,8 +10,7 @@ class App extends Component {
     photo: "",
     favorites: [],
     viewingFavorites: false,
-    date: moment(),
-    media_type: []
+    date: moment()
   };
 
   componentDidMount() {
